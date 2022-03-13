@@ -17,8 +17,8 @@ services:
       # Postgres nos exige que establezcamos un usuario por defecto, esto se hace por medio
       # de variables de entorno. Según el hub de Postgres:
       POSTGRES_DB: marvel_db
-      POSTGRES_USER: inove_user
-      POSTGRES_PASSWORD: 123Marvel!
+      POSTGRES_USER: andresdeinnocentiis
+      POSTGRES_PASSWORD: andres.29
 
     ports:
       # Enlazamos el puerto en el que trabaja Postgres, por defecto el 5432
